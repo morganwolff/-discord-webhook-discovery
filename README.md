@@ -2,9 +2,9 @@
 
 ## Project Description
 
-Le but du projet est de créer un script python en utilisant discord.py afin de transformer un fichier CSV contenant des informations sur la raspberry pi 4 en list de lists,<br>
-permettant par la suite de créer un webhook discord afin de connaitre la disponibilité du produit, son prix, sa photo ainsi qu’un lien nous redirigeant vers le site afin de pouvoir l’acheter dans le cas ou le produit est disponible à la vente.<br>
-Le webhook apparaitra en rouge en cas de rupture de stock, et en vers dans le cas contraire.
+The goal of the project is to create a python script using discord.py to transform a CSV file containing information about the raspberry pi 4 into a list of lists,<br>
+subsequently allowing to create a discord webhook in order to know the availability of the product, its price, its photo as well as a link redirecting us to the site in order to be able to buy it in the event that the product is available for sale.<br>
+The webhook will appear in red if out of stock, and in verse otherwise.
 
 ### Example
 <img src="img/image.png" width="350" title="hover text">
